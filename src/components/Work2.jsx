@@ -29,10 +29,14 @@ const Work2 = () => {
             easier access and ui design which easy to understand
           </p>
           <p className="text-white text-[18px] font-poppin font-medium mb-4">
-            this website use authentication method by email only for securities reasons for anyone who want to watch the live demo back-end side please contact me first
+            this website use authentication method by email only for securities
+            reasons for anyone who want to watch the live demo back-end side
+            please contact me first
           </p>
-          <p className="text-white text-[12px] font-poppin font-medium mb-4">(for anyone who want to watch the live demo back-end side please contact me first)
-            </p>
+          <p className="text-white text-[12px] font-poppin font-medium mb-4">
+            (for anyone who want to watch the live demo back-end side please
+            contact me first)
+          </p>
           <div className="flex flex-row ml-4 justify-start items-center gap-[30px]">
             <a
               href="https://github.com/toffly/project-musicschool"
@@ -44,9 +48,15 @@ const Work2 = () => {
                 className="w-[24px] h-[24px] cursor-pointer"
               />
             </a>
-            <button className="rounded-lg bg-[#33B249] px-[16px] py-[8px] text-white font-poppin text-[18px] hover:bg-[#236A2F] duration-500">
-              LIVE DEMO
-            </button>
+            <a
+              href="http://peet-musicschool.online"
+              target="
+            _blank"
+            >
+              <button className="rounded-lg bg-[#33B249] px-[16px] py-[8px] text-white font-poppin text-[18px] hover:bg-[#236A2F] duration-500">
+                LIVE DEMO
+              </button>
+            </a>
           </div>
         </div>
       </Reveal>

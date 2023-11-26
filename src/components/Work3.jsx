@@ -38,9 +38,15 @@ const Work3 = () => {
                 className="w-[24px] h-[24px] cursor-pointer"
               />
             </a>
-            <button className="rounded-lg bg-[#33B249] px-[16px] py-[8px] text-white font-poppin text-[18px] hover:bg-[#236A2F] duration-500">
-              LIVE DEMO
-            </button>
+            <a
+              href="http://peet-shoeclone.online"
+              target="
+            _blank"
+            >
+              <button className="rounded-lg bg-[#33B249] px-[16px] py-[8px] text-white font-poppin text-[18px] hover:bg-[#236A2F] duration-500">
+                LIVE DEMO
+              </button>
+            </a>
           </div>
         </div>
       </Reveal>
